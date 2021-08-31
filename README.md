@@ -1,6 +1,6 @@
 # About
 
-Bot sederhana untuk push rank popowi  
+Bot sederhana untuk push rank  
 
 nb :  
 Just for fun 
